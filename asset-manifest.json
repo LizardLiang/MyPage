@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/MyPage.git/static/css/main.a617e044.chunk.css",
-    "main.js": "/MyPage.git/static/js/main.bad20dc1.chunk.js",
-    "main.js.map": "/MyPage.git/static/js/main.bad20dc1.chunk.js.map",
-    "runtime-main.js": "/MyPage.git/static/js/runtime-main.34235a8a.js",
-    "runtime-main.js.map": "/MyPage.git/static/js/runtime-main.34235a8a.js.map",
-    "static/js/2.894428e3.chunk.js": "/MyPage.git/static/js/2.894428e3.chunk.js",
-    "static/js/2.894428e3.chunk.js.map": "/MyPage.git/static/js/2.894428e3.chunk.js.map",
-    "static/js/3.2b38c112.chunk.js": "/MyPage.git/static/js/3.2b38c112.chunk.js",
-    "static/js/3.2b38c112.chunk.js.map": "/MyPage.git/static/js/3.2b38c112.chunk.js.map",
-    "index.html": "/MyPage.git/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/MyPage.git/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.894428e3.chunk.js.LICENSE.txt": "/MyPage.git/static/js/2.894428e3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/MyPage.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/MyPage/static/css/main.a617e044.chunk.css",
+    "main.js": "/MyPage/static/js/main.bad20dc1.chunk.js",
+    "main.js.map": "/MyPage/static/js/main.bad20dc1.chunk.js.map",
+    "runtime-main.js": "/MyPage/static/js/runtime-main.956c1dc3.js",
+    "runtime-main.js.map": "/MyPage/static/js/runtime-main.956c1dc3.js.map",
+    "static/js/2.894428e3.chunk.js": "/MyPage/static/js/2.894428e3.chunk.js",
+    "static/js/2.894428e3.chunk.js.map": "/MyPage/static/js/2.894428e3.chunk.js.map",
+    "static/js/3.2b38c112.chunk.js": "/MyPage/static/js/3.2b38c112.chunk.js",
+    "static/js/3.2b38c112.chunk.js.map": "/MyPage/static/js/3.2b38c112.chunk.js.map",
+    "index.html": "/MyPage/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/MyPage/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.894428e3.chunk.js.LICENSE.txt": "/MyPage/static/js/2.894428e3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MyPage/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.34235a8a.js",
+    "static/js/runtime-main.956c1dc3.js",
     "static/js/2.894428e3.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.bad20dc1.chunk.js"
