@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/git@github.com:LizardLiang/MyPage.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/git@github.com:LizardLiang/MyPage.git/static/js/main.bad20dc1.chunk.js",
+    "main.js.map": "/git@github.com:LizardLiang/MyPage.git/static/js/main.bad20dc1.chunk.js.map",
+    "runtime-main.js": "/git@github.com:LizardLiang/MyPage.git/static/js/runtime-main.3de246a4.js",
+    "runtime-main.js.map": "/git@github.com:LizardLiang/MyPage.git/static/js/runtime-main.3de246a4.js.map",
+    "static/js/2.894428e3.chunk.js": "/git@github.com:LizardLiang/MyPage.git/static/js/2.894428e3.chunk.js",
+    "static/js/2.894428e3.chunk.js.map": "/git@github.com:LizardLiang/MyPage.git/static/js/2.894428e3.chunk.js.map",
+    "static/js/3.2b38c112.chunk.js": "/git@github.com:LizardLiang/MyPage.git/static/js/3.2b38c112.chunk.js",
+    "static/js/3.2b38c112.chunk.js.map": "/git@github.com:LizardLiang/MyPage.git/static/js/3.2b38c112.chunk.js.map",
+    "index.html": "/git@github.com:LizardLiang/MyPage.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/git@github.com:LizardLiang/MyPage.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.894428e3.chunk.js.LICENSE.txt": "/git@github.com:LizardLiang/MyPage.git/static/js/2.894428e3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/git@github.com:LizardLiang/MyPage.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3de246a4.js",
+    "static/js/2.894428e3.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.bad20dc1.chunk.js"
+  ]
+}
